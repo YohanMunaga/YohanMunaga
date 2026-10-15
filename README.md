@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I'm Yohankumar Munaga 👋
 
-<!--
-**YohanMunaga/YohanMunaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Data Analytics | Business Intelligence | Software Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a technology professional with experience in software engineering, data analysis, business intelligence, and process improvement. I enjoy turning complex data into actionable insights and building solutions that support business decisions.
+ 
+ Technical Skills:
+- Data & Analytics: SQL, Python, Excel, Power BI, Tableau
+- Development: Java, REST APIs, Git, GitHub
+- Cloud & Tools: AWS, Snowflake, Jenkins
+- Business Analysis: Requirements Gathering, Data Validation, Reporting, Process Improvement
+
+
+ Education:
+Master's in Computer and Information Sciences — Saint Louis University
