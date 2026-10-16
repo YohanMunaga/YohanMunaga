@@ -1,0 +1,9 @@
+-- Power BI measures (table: Sales)
+Gross Sales = SUMX(Sales, Sales[quantity] * Sales[unit_price])
+Discount Amount = SUMX(Sales, Sales[quantity] * Sales[unit_price] * Sales[discount_pct])
+Net Sales = [Gross Sales] - [Discount Amount]
+Order Count = DISTINCTCOUNT(Sales[order_id])
+Units Sold = SUM(Sales[quantity])
+Average Order Value = DIVIDE([Net Sales], [Order Count])
+Sales vs Target = [Net Sales] - SUM(Sales[target])
+Sales vs Target % = DIVIDE([Sales vs Target], SUM(Sales[target]))
