@@ -1,0 +1,17 @@
+customer_id,tenure_months,contract_type,monthly_charges,churned
+C001,3,Month-to-month,78,1
+C002,7,Month-to-month,65,1
+C003,14,One-year,72,0
+C004,28,Two-year,58,0
+C005,5,Month-to-month,91,1
+C006,19,One-year,66,0
+C007,9,Month-to-month,73,1
+C008,34,Two-year,61,0
+C009,11,One-year,84,0
+C010,4,Month-to-month,55,1
+C011,22,Two-year,69,0
+C012,16,One-year,76,0
+C013,8,Month-to-month,88,1
+C014,31,Two-year,63,0
+C015,12,One-year,59,0
+C016,6,Month-to-month,70,1
