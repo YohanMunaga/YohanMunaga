@@ -1,16 +1,24 @@
-Hi, I'm Yohankumar Munaga 👋
+# Hi, I'm Yohankumar Munaga 👋
 
+**Data Analytics | Business Intelligence | Business Analysis**
 
-Data Analytics | Business Intelligence | Software Engineering
+I turn business questions into clear requirements, reliable analysis, and decision-ready reporting. My experience includes software engineering, data analysis, business intelligence, and process improvement. This GitHub profile includes **independent portfolio projects using synthetic data** to demonstrate my analyst skills.
 
-I'm a technology professional with experience in software engineering, data analysis, business intelligence, and process improvement. I enjoy turning complex data into actionable insights and building solutions that support business decisions.
- 
- Technical Skills:
-- Data & Analytics: SQL, Python, Excel, Power BI, Tableau
-- Development: Java, REST APIs, Git, GitHub
-- Cloud & Tools: AWS, Snowflake, Jenkins
-- Business Analysis: Requirements Gathering, Data Validation, Reporting, Process Improvement
+## Portfolio projects
 
+- [Healthcare Operations Analytics](projects/healthcare-operations-analytics/) — SQL KPI analysis, data validation, and Power BI dashboard specification.
+- [Sales Performance Dashboard](projects/sales-performance-dashboard/) — sales modeling, DAX measures, KPI design, and dashboard requirements.
+- [Business Analysis Requirements Case](projects/business-analysis-requirements-case/) — process analysis, user stories, acceptance criteria, risks, and UAT.
+- [Customer Retention Analysis](projects/customer-retention-analysis/) — Python/pandas validation, segmentation, visualization, and business interpretation.
 
- Education:
+## Skills
+
+- **Analytics:** SQL, Python, Excel, Power BI, Tableau, data validation, KPI reporting
+- **Business analysis:** requirements gathering, user stories, process improvement, stakeholder communication, UAT
+- **Technology:** Java, REST APIs, Git/GitHub, AWS, Snowflake, Jenkins
+
+## Education
+
 Master's in Computer and Information Sciences — Saint Louis University
+
+> Portfolio work is labeled separately from employment experience. Project datasets are synthetic and do not contain company or customer data.
