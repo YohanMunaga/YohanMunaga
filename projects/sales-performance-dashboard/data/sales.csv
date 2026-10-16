@@ -1,0 +1,11 @@
+order_id,order_date,region,category,product,quantity,unit_price,discount_pct,target
+S1001,2026-01-04,East,Accessories,Mouse,8,25,0.05,220
+S1002,2026-01-08,West,Hardware,Monitor,3,220,0.10,650
+S1003,2026-01-17,East,Hardware,Keyboard,6,75,0.00,420
+S1004,2026-02-03,South,Accessories,Mouse,10,25,0.10,260
+S1005,2026-02-10,West,Hardware,Monitor,2,220,0.05,440
+S1006,2026-02-15,South,Software,License,12,90,0.08,1100
+S1007,2026-03-01,East,Software,License,8,90,0.00,720
+S1008,2026-03-06,West,Accessories,Mouse,12,25,0.05,300
+S1009,2026-03-18,South,Hardware,Keyboard,7,75,0.10,525
+S1010,2026-03-23,East,Hardware,Monitor,4,220,0.05,880
