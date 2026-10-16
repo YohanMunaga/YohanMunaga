@@ -1,0 +1,13 @@
+appointment_id,appointment_date,specialty,clinic,scheduled_slots,completed,canceled,no_show
+A001,2026-01-05,Primary Care,North,20,16,2,2
+A002,2026-01-05,Cardiology,North,16,13,2,1
+A003,2026-01-05,Primary Care,South,18,14,2,2
+A004,2026-01-12,Cardiology,North,16,12,3,1
+A005,2026-01-12,Primary Care,North,20,17,1,2
+A006,2026-01-12,Primary Care,South,18,15,1,2
+A007,2026-02-02,Cardiology,North,16,14,1,1
+A008,2026-02-02,Primary Care,South,18,13,3,2
+A009,2026-02-09,Primary Care,North,20,16,2,2
+A010,2026-02-09,Cardiology,North,16,12,2,2
+A011,2026-02-16,Primary Care,South,18,15,2,1
+A012,2026-02-16,Cardiology,North,16,13,1,2
